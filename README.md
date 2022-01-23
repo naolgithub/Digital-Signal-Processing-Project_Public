@@ -1,4 +1,4 @@
-# Digital-Signal-Processing-Project_Public
+
 Digital Image Processing refers to the manipulation of image data which is motivated by conversion
 between Special and Frequency domains. Image classification, or object recognition, is the process of
 identifying a specific object or class of objects in an image or video. Computer Vision System Toolbox™
